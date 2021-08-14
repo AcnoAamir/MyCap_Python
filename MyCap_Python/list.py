@@ -2,7 +2,7 @@
 """
 Created on Wed Aug 11 09:28:20 2021
 
-@author: aamir
+@author: Acno-aamir
 """
 import random
 def list_gen(m):
